@@ -63,8 +63,7 @@ To get a local copy up and running, follow these simple steps:
 
 1. **Clone the repo**
    
-    git clone https://github.com/sumanpreetkaur20/Chef-Food-bootstrap-website.git
-
+    gh repo clone Sumanpreetkaur20/Chef-Food-bootstrap-website
    
 2. **Navigate to the project directory**
     
