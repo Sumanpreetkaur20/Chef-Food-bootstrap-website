@@ -1,5 +1,5 @@
 # Chef-Food-bootstrap-website
-i have developed food website named"Chef Food" using bootstrap,html and css
+I have developed food website named"Chef Food" using bootstrap,html and css
 Here is the updated README file with your GitHub link included:
 
 
